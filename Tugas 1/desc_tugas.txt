@@ -1,0 +1,9 @@
+Tugas 1 :
+
+-input dan baca nilai intensitas nilai yang keluar f(0,0)
+
+-rotasi 90 derajat dan jangan menggunakan fungsi yang sudah ada
+
+-lakukan pencerminan dan jangan menggunakan fungsi yang sudah ada
+
+dimensi gambar 500x500
